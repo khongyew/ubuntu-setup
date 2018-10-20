@@ -7,6 +7,9 @@ apt-get -y install chromium-browser
 apt-get -y install build-essential
 apt-get -y install git
 apt-get -y install vim
+apt-get -y install default-jdk
+apt-get -y install python2.7
+apt-get -y install python3
 
 #TLP laptop power management tools
 apt-get -y install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms acpi-call-dkms
