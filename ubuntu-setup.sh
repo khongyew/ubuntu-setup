@@ -1,5 +1,5 @@
-#!/bin/sh
-echo "Setting up this fresh new Ubuntu"
+#!/usr/bin/env bash
+echo -e "\e[93m Setting up this fresh new Ubuntu \e[0m"
 apt-get update
 apt-get -y install chromium-browser
 
