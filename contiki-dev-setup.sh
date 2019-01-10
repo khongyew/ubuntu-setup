@@ -16,6 +16,8 @@ sudo cp -f -r /tmp/gcc-arm-none-eabi-5_2-2015q4/* /opt/gcc-arm-none-eabi-5_2-201
 
 rm -rf /tmp/gcc-arm-none-eabi-* gcc-arm-none-eabi-*-linux.tar.bz2
 
+sudo apt-get install gcc-multilib # the ARM toolchain is in 32 bit and requires additional libs to run in 64 bit Ubuntu
+
 echo 'export PATH="$PATH:/opt/gcc-arm-none-eabi-5_2-2015q4/bin"' >> ~/.profile
 
 source ~/.profile
