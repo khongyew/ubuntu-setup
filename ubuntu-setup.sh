@@ -15,7 +15,7 @@ apt-get -y install nodejs
 apt-get -y install npm
 
 #TLP laptop power management tools
-apt-get -y install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms acpi-call-dkms
+apt-get -y install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms
 
 #upgrade any old packages
 apt-get -y upgrade
