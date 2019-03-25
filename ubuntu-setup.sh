@@ -16,6 +16,7 @@ apt-get -y install net-tools #ifconfig is no longer packaged with ubuntu 18.04
 apt-get -y install nodejs
 apt-get -y install npm
 apt-get -y install htop
+apt-get -y install dconf-editor
 
 #TLP laptop power management tools
 apt-get -y install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms
