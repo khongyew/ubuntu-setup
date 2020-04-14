@@ -18,6 +18,10 @@ apt-get -y install npm
 apt-get -y install htop
 apt-get -y install dconf-editor
 apt-get -y install minicom
+apt-get -y install filezilla
+apt-get -y install meld
+apt-get -y install synaptic
+apt-get -y install gnome-tweaks
 
 #TLP laptop power management tools
 apt-get -y install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms
