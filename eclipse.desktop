@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Eclipse
+Type=Application
+Categories=Development;IDE;
+Exec=/home/khong/Desktop/KhongYew/eclipse/cpp-2020-03/eclipse/eclipse
+Terminal=false
+StartupNotify=true
+Icon=/home/khong/Desktop/KhongYew/eclipse/cpp-2020-03/eclipse/icon.xpm
+Name[en_US]=Eclipse
