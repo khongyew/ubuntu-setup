@@ -30,5 +30,5 @@ sudo apt-get -y install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms
 # Chinese pinyin input
 sudo apt-get -y install ibus-sunpinyin
 
-#upgrade any old packages
+# Upgrade any old packages
 sudo apt-get -y upgrade
