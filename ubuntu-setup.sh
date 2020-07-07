@@ -23,6 +23,7 @@ sudo apt-get -y install meld
 sudo apt-get -y install synaptic
 sudo apt-get -y install gnome-tweaks
 sudo apt-get -y install qt5-default qtcreator
+sudo apt-get -y install shellcheck
 
 # TLP laptop power management tools
 sudo apt-get -y install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms
