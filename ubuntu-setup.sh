@@ -26,6 +26,8 @@ sudo apt-get -y install qt5-default qtcreator
 sudo apt-get -y install shellcheck
 sudo apt-get -y install cppcheck
 sudo apt-get -y install valgrind
+sudo apt-get -y install gparted
+sudo apt-get -y install rsync
 
 # TLP laptop power management tools
 sudo apt-get -y install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms
