@@ -24,6 +24,8 @@ sudo apt-get -y install qt5-default qtcreator
 sudo apt-get -y install shellcheck
 sudo apt-get -y install cppcheck
 sudo apt-get -y install valgrind
+sudo apt-get -y install wireshark # will ask for user to select option during install
+sudo apt-get -y install virtualbox
 
 # system utils
 sudo apt-get -y install htop
