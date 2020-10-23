@@ -4,7 +4,7 @@ sudo apt-get update
 #sudo apt-get -y install chromium-browser # chromium is now a snap package :(
 
 ## Others stuffs not included in this script:
-## draw.io, chrome browser, vscode
+## draw.io, chrome browser, vscode, simplenote
 
 # useful development tools
 sudo apt-get -y install build-essential
