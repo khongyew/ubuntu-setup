@@ -35,6 +35,7 @@ sudo apt-get -y install gnome-tweaks
 sudo apt-get -y install net-tools # ifconfig is no longer packaged with ubuntu 18.04
 sudo apt-get -y install gparted
 sudo apt-get -y install rsync
+sudo apt-get -y install pigz # multi-threaded gz compression
 #sudo apt-get -y install acpi # see below if acpi-call-dkms installation fails
 
 # TLP laptop power management tools
