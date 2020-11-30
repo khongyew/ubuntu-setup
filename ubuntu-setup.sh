@@ -36,6 +36,9 @@ sudo apt-get -y install net-tools # ifconfig is no longer packaged with ubuntu 1
 sudo apt-get -y install gparted
 sudo apt-get -y install rsync
 sudo apt-get -y install pigz # multi-threaded gz compression
+sudo apt-get -y install qbittorrent
+sudo apt-get -y install vlc
+
 #sudo apt-get -y install acpi # see below if acpi-call-dkms installation fails
 
 # TLP laptop power management tools
