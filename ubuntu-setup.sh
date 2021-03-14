@@ -26,6 +26,8 @@ sudo apt-get -y install cppcheck
 sudo apt-get -y install valgrind
 sudo apt-get -y install wireshark # will ask for user to select option during install
 sudo apt-get -y install virtualbox
+sudo apt-get -y install cmake
+sudo apt-get -y install doxygen
 
 # system utils
 sudo apt-get -y install htop
@@ -38,6 +40,7 @@ sudo apt-get -y install rsync
 sudo apt-get -y install pigz # multi-threaded gz compression
 sudo apt-get -y install qbittorrent
 sudo apt-get -y install vlc
+sudo apt-get -y install ethtool
 
 #sudo apt-get -y install acpi # see below if acpi-call-dkms installation fails
 
