@@ -28,6 +28,8 @@ sudo apt-get -y install wireshark # will ask for user to select option during in
 sudo apt-get -y install virtualbox
 sudo apt-get -y install cmake
 sudo apt-get -y install doxygen
+sudo apt-get -y install openssh-server
+sudo apt-get -y install sshpass
 
 # system utils
 sudo apt-get -y install htop
