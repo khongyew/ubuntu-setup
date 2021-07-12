@@ -4,7 +4,7 @@ sudo apt-get update
 #sudo apt-get -y install chromium-browser # chromium is now a snap package :(
 
 ## Others stuffs not included in this script:
-## draw.io, chrome browser, vscode, simplenote
+## draw.io, chrome browser, vscode, simplenote, termius
 
 # useful development tools
 sudo apt-get -y install build-essential
@@ -31,6 +31,11 @@ sudo apt-get -y install doxygen
 sudo apt-get -y install openssh-server
 sudo apt-get -y install sshpass
 sudo apt-get -y install glogg
+sudo apt-get -y install putty
+sudo apt-get -y install mosquitto
+
+# development libraries
+# <TODO>
 
 # system utils
 sudo apt-get -y install htop
